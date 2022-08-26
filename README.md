@@ -47,4 +47,6 @@ I wa pleased that the module integrated understanding of a number of the tools t
 I have also improved my knowledge of the important differences between a SQL and noSQL database and the applications the various applications and tools that can be used to handle both.
 
 ## Practical Work
+The hands-on labs, building databases in SQL and Python and then interrogating them with Pandas were amazingly useful in showing how the different tools work together. I have used the built-in Python Requests library for some web scraping, but using pandas for interrogating databases was new to me, but I soon got the hang of it. One thing I still don't quite understand is when I would use Python and when SQL. For most things, you can use either one. 
+
 The practical work for this module is the collection of labs, presented as Google Colab notebooks.
