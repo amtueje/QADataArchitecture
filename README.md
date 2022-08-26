@@ -50,3 +50,5 @@ I have also improved my knowledge of the important differences between a SQL and
 The hands-on labs, building databases in SQL and Python and then interrogating them with Pandas were amazingly useful in showing how the different tools work together. I have used the built-in Python Requests library for some web scraping, but using pandas for interrogating databases was new to me, but I soon got the hang of it. One thing I still don't quite understand is when I would use Python and when SQL. For most things, you can use either one. 
 
 The practical work for this module is the collection of labs, presented as Google Colab notebooks.
+
+Huge thanks to @a-forty-two for teaching such a great module for all of us!
