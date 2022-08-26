@@ -38,7 +38,7 @@ There are also many other problems associated with data collection that might be
 ## Self Reflection - What Did I Learn?
 This course has provided me with a detailed overview of what data architecture is from a conceptual idea of how we think about data storage, the systems and processes we can employ to store, transform and then use data, as well as how the different tools that we use to perform these tasks work together (or sometimes, don't work together)
 
-### Data design
+## Data design
 Yes, data is a collection of facts, but good data design is so much more than that. We must think about what and who the data is for, how it will be accessed, when, and, perhaps most importantly, what *types* of data are we collecting and storing. One needs to understand the difference between a data warehouse and a data lake, why one might want one over the other (or the two in tandem). 
 We need to understand these concepts in order to eventually extract the best information, queries and visualisations from our data.
 
