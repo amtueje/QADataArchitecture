@@ -51,4 +51,4 @@ The hands-on labs, building databases in SQL and Python and then interrogating t
 
 The practical work for this module is the collection of labs, presented as Google Colab notebooks.
 
-Huge thanks toThis site was built using [@a-forty-two](https://github.com/a-forty-two).
+Huge thanks to [@a-forty-two](https://github.com/a-forty-two) for a super duper module.
