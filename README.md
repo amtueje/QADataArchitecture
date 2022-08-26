@@ -26,11 +26,11 @@ We may not know, although we can make good guesses, as to what the correct data 
 ### Other problems
 One challenge that data engineers face is that the data they architect will have different end users with varying requirements. 
 
-#### Data architects<br/>
+#### Data architects
 May be more interested in the *availability* of the data, when and how can they access it.
-#### Data analysts<br/>
+#### Data analysts
 It is the *quality* of the data that impresses data analysts most.
-#### Data scientists<br/>
+#### Data scientists
 Will be primarily concerned with the *cleanliness and completeness* of the data, as well as any outliers and anomalies.
 
 There are also many other problems associated with data collection that might be invisible to the data engineer, but that manifest in challenges in the processing of data, such as a lack of training in data collecting procedures; if employees are not sufficiently trained in how to collect data that is robust, the result will be data that is of an inferior quality.
